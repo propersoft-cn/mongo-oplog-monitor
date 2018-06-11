@@ -16,3 +16,5 @@ mongo-oplog-monitor
 - 支持多mongos，host逗号分隔，支持分片，[分片配置方法](https://www.cnblogs.com/clsn/p/8214345.html),分片无需过多配置，mongo配好后即生效
 
 - 支持两种日志读取方式 restart参数 true 从当前时间读取日志 false从上次down掉的时间来读取日志
+
+- [oplog数据结构](https://www.cnblogs.com/Joans/p/7723554.html)
